@@ -101,6 +101,6 @@ void loop() {
     getDataFromCloud(ultraSonicDistance);
   }
 
-  delay(5000);
+  delay(2000);
   // put your main code here, to run repeatedly:
 }
